@@ -76,4 +76,5 @@ $ pip install -r requirements.txt
 ## TODO
 
 - 之前用 Pyqt5 写了个 GUI，等我有空找一找更新一下
+
 - 基于 CLIP 针对特定的应用场景进行迁移学习来提高准确度
